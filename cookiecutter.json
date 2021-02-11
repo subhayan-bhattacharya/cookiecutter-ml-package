@@ -1,0 +1,9 @@
+{
+  "full_name": "Subhayan Bhattacharya",
+  "email": "subhayan.bhattacharya@ai4bd.com",
+  "project_name": "Python Boilerplate",
+  "project_slug": "{{ cookiecutter.project_name.lower().replace(' ', '_').replace('-', '_') }}",
+  "project_short_description": "Python Boilerplate contains all the boilerplate you need to create a Python package.",
+  "version": "0.0.0",
+  "automated_testing": ["Nox", "Tox"]
+}
